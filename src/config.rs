@@ -118,7 +118,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rdp.sonerkeser.com"];
-pub const RS_PUB_KEY: &str = "2HeOHklNhgGgs8GErOSKiE6ggVSeZM1pnGyUFI0oGGY=";
+pub const RS_PUB_KEY: &str = "Uz8nB9o4YFD7bjzTLgJ+rsTgYCi/METztbXL5wjUtL4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
