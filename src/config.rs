@@ -117,7 +117,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rdp.sonerkeser.com"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rdp.vowtech.com.tr"];
 pub const RS_PUB_KEY: &str = "Uz8nB9o4YFD7bjzTLgJ+rsTgYCi/METztbXL5wjUtL4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
